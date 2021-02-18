@@ -1,0 +1,1 @@
+export 'src/xshop_store.dart';
